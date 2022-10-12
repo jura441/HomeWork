@@ -11,10 +11,10 @@ namespace Building_a_house
         static void Main(string[] args)
         {
             List<Teams> teams = new List<Teams>
-                { new Teams("Рабочий 1"),
-                new Teams("Рабочий 2"),
-                new Teams("Рабочий 3"),
-                new Teams("Рабочий 4") };
+                { new Teams("Алёшка"),
+                new Teams("Серёжа"),
+                new Teams("Виталя"),
+                new Teams("Андрей") };
             House house = new House();
             Team teamleader = new Team("Бригадир", teams);
             //докладная бригадира по строительству дома
