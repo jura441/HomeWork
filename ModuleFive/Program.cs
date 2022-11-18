@@ -37,9 +37,9 @@ using System.Threading.Tasks;
 //            }
 //        }
 
-//class Book : IEnumerable, IComparable
+//        class Book : IEnumerable, IComparable
 //        {
-//            public string Name { get; set; } 
+//            public string Name { get; set; }
 //            public int NumberPages { get; set; }
 //            public string Publishing { get; set; }
 //            public string Genre { get; set; }
@@ -169,10 +169,10 @@ using System.Threading.Tasks;
 //            {
 //                Console.WriteLine("Список книг в магазине: ");
 //            }
-            
+
 
 //        }
 
 //    }
-    
+
 //}
